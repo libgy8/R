@@ -1,0 +1,17 @@
+{
+    "contents" : "library(\"TS\")\nfsdafasdfasaf",
+    "created" : 1415807738411.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3664013755",
+    "id" : "3552E4EB",
+    "lastKnownWriteTime" : 1415807828,
+    "path" : "C:/Github/R/R1.R",
+    "project_path" : "R1.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : true,
+    "type" : "r_source"
+}
